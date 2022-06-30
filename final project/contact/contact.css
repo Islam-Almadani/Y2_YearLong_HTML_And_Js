@@ -1,0 +1,96 @@
+#abdimg{
+    width: 269px;
+padding-left: 0px;
+padding-top: 23px;
+padding-left: 45px;
+}
+body{
+    background-image:url( "/home/abd/Downloads/123.jpg");
+}
+
+#abdface{
+    color: #fdfdfd;
+    position: fixed;
+    margin-left: 0px;
+    left: 70px;
+}
+#abdface:hover {
+  color:#ffc505;
+}
+#abdface:link {
+    text-decoration: none;
+  }
+#islamimg{
+    width: 269px;
+    height: 269px;
+    padding-left: 45px;
+}
+#islamface{
+    color: #fdfdfd;
+    position: fixed;
+    left: 410px;
+}
+#islamface:hover {
+    color: #ffc505;
+  }
+#islamface:link {
+    text-decoration: none;
+  }
+#ahmadimg{
+    width: 269px;
+    height: 269px;
+    padding-left: 45px;
+}
+#ahmadface{
+    color: #fdfdfd;
+    position: fixed;
+    left: 729.167px;
+}
+#ahmadface:hover {
+    color: #ffc505;
+}
+#ahmadface:link {
+    text-decoration: none;
+  }
+#zaidimg{
+    width: 269px;
+    height: 269px;
+    padding-left: 45px;
+}
+#zaidface{
+    color: #fdfdfd;
+    position: fixed;
+    left: 1062.25px;
+}
+#zaidface:hover {
+    color: #ffc505;
+  }
+#zaidface:link {
+    text-decoration: none;
+  }
+#nheader{
+    height: 50px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    
+  }
+#Home{
+    color: #ffffff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    left: 18px;
+    padding-top: 11px;
+  }
+#Home:link {
+    text-decoration: none;
+  }
+#div1{
+  padding-top: 40px;
+  padding-left: 13px;
+  }
+.oval{
+  height: 50px;
+  width: 100px;
+  background-color: #ffc505;
+  border-radius: 50%;
+} 

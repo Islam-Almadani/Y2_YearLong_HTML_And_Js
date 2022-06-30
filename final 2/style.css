@@ -1,0 +1,28 @@
+body{
+    background-color:#2c3e50;";
+}
+#sports{
+    color: #1ff3de;   
+    font-size:120px;
+    padding-left: 500px;
+    font-family: Akaya Kanadaka;
+    margin-top: 0px;
+    margin-bottom: 30px;
+}
+#prasports{
+    color:#e74c3c;
+    font-size: 25px;
+    border-right-width: 10px;
+    border-right-style: solid;
+    border-top-width: 10px;
+    border-top-style: solid;
+    border-left-width: 10px;
+    border-left-style: solid;
+    border-bottom-width: 10px;
+    border-bottom-style: solid; 
+    border-color: yellow;  
+    margin-top: 18px;
+    margin-left: 200px;
+    margin-right: 200px;
+ 
+}

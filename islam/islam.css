@@ -1,0 +1,38 @@
+#body{
+    background-color: whitesmoke;
+}
+.Questions{
+    display: inline;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.textinput{
+    display: block;
+    padding: 5px 7px;
+    margin: 5px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid #4CAF50;
+    border-radius: 4px;
+}
+#div1{
+    margin-top: 15px;
+    margin-left: 5%;
+}
+#check{
+    background-color: #ffffff;
+    border: 2px solid #4CAF50 ;
+    border-radius: 5px;
+    color: rgb(0, 0, 0);
+    padding: 10px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12;
+    transition-duration: 0.4s
+}
+#check:hover{
+    background-color: #4CAF50;
+    color : white; 
+    box-shadow: 0 10px 12px 0 rgba(66, 66, 66, 0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+
+}

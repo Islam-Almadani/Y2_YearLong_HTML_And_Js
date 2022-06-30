@@ -1,0 +1,179 @@
+body{
+    /* background-image:url("/home/madani/Desktop/final project/img/New Project.jpg"); */
+    background-color: rgb(148, 34, 201);
+}
+#sports{
+    color: #31fbbe; 
+    font-size:120px;
+    padding-left: 400px;
+    font-family: Akaya Kanadaka;
+    margin-top: 0px;
+    margin-bottom: 30px;
+    padding-left: 522px;
+}
+#prasports{
+    color:#ffffff;
+    font-size: 25px;
+    border-right-width: 7px;
+    border-right-style: solid;
+    border-top-width: 7px;
+    border-top-style: solid;
+    border-left-width: 7px;
+    border-left-style: solid;
+    border-bottom-width: 7px;
+    border-bottom-style: solid; 
+    border-color: #ffc505; 
+    margin-top: 18px;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+#image {
+    padding-left: 385px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-top: -45px;
+}
+#nheader{
+    height: 50px;
+    padding-bottom: 6px;
+    margin-top: 0px;
+    margin-bottom: 30px;
+}
+
+li{
+    display: inline-block;
+    padding-left: 20px;
+}
+
+#contact{
+    color: #ffffff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: fixed;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+#contact:link {
+    text-decoration: none;
+  }
+.oval2{
+    height: 50px;
+    width: 130px;
+    background-color: #ffc505;
+    border-radius: 50%;
+    position: fixed;}
+#foot_title{
+    font-family:Akaya Kanadaka;
+    color:  #31fbbe;
+    font-size: 50px;
+    border-top-width: 10px;
+    border-top-style: solid;
+    border-right-width: 10px;
+    border-right-style: solid;
+    border-bottom-width: 10px;
+    border-bottom-style: solid;
+    border-left-width: 10px;
+    border-left-style: solid;
+    padding-left: 565px;
+    margin-left: 0px;
+    margin-top: 5px;
+    border-color: #ffc505;
+}
+#foot_img{
+    width: 65px;
+    margin-top: -120px;
+    margin-bottom: 77px;
+    padding-left: 385px;
+}
+#foot_img2{
+    width: 65px;
+    margin-top: -120px;
+    margin-bottom: 77px;
+    padding-left: 450px;
+}
+#about_foot
+{
+    position: fixed;
+}
+#foot_pra{
+    color: #ffffff;
+    font-size: 25px;
+}
+
+
+
+
+#volley_title{
+    font-family:Akaya Kanadaka;
+    color:  #31fbbe;
+    font-size: 50px;
+    border-top-width: 10px;
+    border-top-style: solid;
+    border-right-width: 10px;
+    border-right-style: solid;
+    border-bottom-width: 10px;
+    border-bottom-style: solid;
+    border-left-width: 10px;
+    border-left-style: solid;
+    padding-left: 565px;
+    margin-left: 0px;
+    margin-top: 5px;
+    border-color: #ffc505;
+}
+#volley_img{
+        width: 65px;
+        margin-top: -120px;
+        margin-bottom: 77px;
+        padding-left: 385px;
+    }
+#volley_img2{
+        width: 65px;
+        margin-top: -120px;
+        margin-bottom: 77px;
+        padding-left: 450px;
+    }
+   
+
+
+#about_volly{
+          position: fixed;
+    }
+#volley_pra{
+          color: #ffffff;
+          font-size: 25px;
+    }
+    #volley_stadiam_pra{
+        color: #ffffff;
+        font-size: 25px;
+    }
+#volley_stadiam_img{
+    padding-left: 280px;
+}
+#volley_famous_pra{
+        color: #ffffff;
+        font-size: 25px;
+        margin-right: 385px;
+
+}
+#volley_player_1{
+    width: 280px;
+    height: 488px;
+    margin-left: 939px;
+    margin-bottom: 0px;
+    margin-top: -190px;
+}
+#volley_famous_pra_2{
+    color: #ffffff;
+    font-size: 25px;
+    margin-right: 385px;
+
+}
+#volley_player_2{
+width: 280px;
+height: 488px;
+margin-left: 939px;
+margin-bottom: 0px;
+margin-top: -190px;
+}
